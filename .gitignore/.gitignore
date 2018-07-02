@@ -1,2 +1,3 @@
+#suma de factoriales
 n = int(input())
 
